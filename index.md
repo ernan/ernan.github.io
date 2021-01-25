@@ -16,7 +16,8 @@ You can see that the moon is rotating.
 
 All original images that were used to make up thsi collage can be found on github.
 
-![Moon Rotating 2021/01/23](/img/MoonRotating20210123.jpg)
+![Moon Rotating 2021/01/23](/img/MoonRotation20210123.jpg)
+
 
 This image is a collage of photographs taken on 23 Jan 2021.
 Over a perid of hours I took some photographs of the moon and then some close up shots of the moon.
