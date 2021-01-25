@@ -10,3 +10,6 @@ This website will server three puposes
 
 ![Moon Rotating 2021/01/22](/img/MoonRotating20210122.png)
 
+This image is a collage of photographs taken on 22 Jan 2021.
+Over a perid of hours I took some photographs of the moon and then some close up shots of the moon.
+You can see that the moon is rotating.
