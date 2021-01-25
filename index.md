@@ -8,4 +8,5 @@ This website will server three puposes
 
 ### Demonstrating the moon is rotating
 
+![Moon Rotating 2021/01/22](/img/MoonRotating20210122.png)
 
