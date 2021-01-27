@@ -13,6 +13,12 @@ I took a full shot this would include the moon and the ground so that it is obvi
 I then took another shot a close up (x50 magnification on the moon)
 The close up is always taken from the same positions oas the full shot.
 
+## Moon Rotation Video
+
+This video shows the moon changing
+
+![Video of moon rotating](video/MoonRotating25012021.mp4)
+
 ## Moon Rotation 2021/01/25
 
 I have highlighted two distinctive areas of the moon so you can see it is rotation 
