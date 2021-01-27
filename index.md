@@ -17,7 +17,7 @@ The close up is always taken from the same positions oas the full shot.
 
 This video shows the moon changing
 
-![Video of moon rotating](video/MoonRotating25012021.mp4)
+![Video of moon rotating](/video/MoonRotating25012021.mp4)
 
 ## Moon Rotation 2021/01/25
 
