@@ -1,6 +1,6 @@
 # The moon is rotating in the sky
 
-This website will server three puposes
+This website will serve three purposes
 
 1. Demonstrate and show the rotation.
 2. Determine the reason for the rotation.
@@ -37,21 +37,21 @@ Notice that the rotation does not start until 21:30
 
 ## Moon Rotation 2021/01/23
 
-![Moon Rotating 2021/01/23](/img/MoonRotation20210123.jpg)
+![Moon Rotating 2021/01/23](/img/20210123/MoonRotation20210123.jpg)
 
 
 This image is a collage of photographs taken on 23 Jan 2021.
-Over a perid of hours I took some photographs of the moon and then some close up shots of the moon.
+Over a period of hours I took some photographs of the moon and then some close up shots of the moon.
 You can see that the moon is rotating.
 
 ## Moon Rotation 2021/01/22
 
-![Moon Rotating 2021/01/22](/img/MoonRotating20210122.png)
+![Moon Rotating 2021/01/22](/img/20210122/MoonRotating20210122.png)
 
 This image is a collage of photographs taken on 22 Jan 2021.
-Over a perid of hours I took some photographs of the moon and then some close up shots of the moon.
+Over a period of hours I took some photographs of the moon and then some close up shots of the moon.
 You can see that the moon is rotating.
 
 
 
-All original images that were used to make up thsi collage can be found on github.
+All original images that were used to make up this collage can be found on github.
