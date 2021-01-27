@@ -23,6 +23,17 @@ This video shows the moon changing
 </video>
 
 
+## Moon Rotation 2021/01/26
+
+I have highlighted two distinctive areas of the moon so you can see it is rotation 
+The "Rabbet Ears" Sea of Nectar and Sea of Fertility
+The "Rabbets lunch" Sea of Clouds
+
+Notice that the rotation does not start until 21:30
+
+![Moon Rotating 2021/01/26](/assets/images/20210126/MoonRotation20210126.jpg)
+
+
 ## Moon Rotation 2021/01/25
 
 I have highlighted two distinctive areas of the moon so you can see it is rotation 
@@ -31,8 +42,7 @@ The "Rabbets lunch" Sea of Clouds
 
 Notice that the rotation does not start until 21:30
 
-![Moon Rotating 2021/01/23](/assets/images/20210125/MoonRotation20210125.jpg)
-
+![Moon Rotating 2021/01/25](/assets/images/20210125/MoonRotation20210125.jpg)
 
 
 ## Moon Rotation 2021/01/23
@@ -54,4 +64,4 @@ You can see that the moon is rotating.
 
 
 
-All original images that were used to make up this collage can be found on github.
+All original images that were used to make up this collage can be found on ![github](https://github.com/ernan/ernan.github.io).
