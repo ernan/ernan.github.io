@@ -18,7 +18,7 @@ The close up is always taken from the same positions oas the full shot.
 This video shows the moon changing
 
 <video width="320" height="240" controls>
-  <source src="/video/MoonRotating25012021.mp4" type="video/mp4">
+  <source src="/assets/video/MoonRotating25012021.mp4" type="video/mp4">
   Video of moon rotating
 </video>
 
@@ -31,13 +31,13 @@ The "Rabbets lunch" Sea of Clouds
 
 Notice that the rotation does not start until 21:30
 
-![Moon Rotating 2021/01/23](/img/20210125/MoonRotation20210125.jpg)
+![Moon Rotating 2021/01/23](/assets/images/20210125/MoonRotation20210125.jpg)
 
 
 
 ## Moon Rotation 2021/01/23
 
-![Moon Rotating 2021/01/23](/img/20210123/MoonRotation20210123.jpg)
+![Moon Rotating 2021/01/23](/assets/images/20210123/MoonRotation20210123.jpg)
 
 
 This image is a collage of photographs taken on 23 Jan 2021.
@@ -46,7 +46,7 @@ You can see that the moon is rotating.
 
 ## Moon Rotation 2021/01/22
 
-![Moon Rotating 2021/01/22](/img/20210122/MoonRotating20210122.png)
+![Moon Rotating 2021/01/22](/assets/images/20210122/MoonRotating20210122.png)
 
 This image is a collage of photographs taken on 22 Jan 2021.
 Over a period of hours I took some photographs of the moon and then some close up shots of the moon.
