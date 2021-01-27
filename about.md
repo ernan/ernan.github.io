@@ -1,9 +1,13 @@
-# The moon rotation project
+---
+layout: page
+title: About
+permalink: /about/
+---
 
-This project has three very simple goals
+I watched a documentary [shackled](https://vimeo.com/ondemand/shackledtosilence). In that documentary Eric Briggs who said that the moon had changed ts position relative to the earth.
 
-1. Determine if the moon is actually rotating. This is important. If this is happening it seems unlikely that NASA etc. have missed this. What we will do here is add every bit of information we can find and put that information in front of NASA et all.
+Initially I though this was ridiculous and would be easy to disprove. I bought a new phone for Christmas so I said I would take a photo to test the theory.
 
-2. Provided 1 is true. Determine what is causing the moon to rotate.
 
-3. Determine what will be the effect of this new rotation.
+Angry Catfish Briggs YouTube Page: [github.com/jglovier/jekyll-new](https://www.youtube.com/channel/UCWny2mPeTkaQ6J27Swn1_gg)
+

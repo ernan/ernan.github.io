@@ -29,8 +29,6 @@ I have highlighted two distinctive areas of the moon so you can see it is rotati
 The "Rabbet Ears" Sea of Nectar and Sea of Fertility
 The "Rabbets lunch" Sea of Clouds
 
-Notice that the rotation does not start until 21:30
-
 ![Moon Rotating 2021/01/26](/assets/images/20210126/MoonRotation20210126.jpg)
 
 
