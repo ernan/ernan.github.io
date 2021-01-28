@@ -1,17 +1,20 @@
 # The moon is rotating in the sky
 
-This website will serve three purposes
+This website aims to do three things
 
 1. Demonstrate and show the rotation.
 2. Determine the reason for the rotation.
-3. Determine what impact this change in rotation will have on our life.
+3. Determine the impact of this rotation.
 
 ## Demonstrating the moon is rotating
 
-I took many photographs of the moon.
-I took a full shot this would include the moon and the ground so that it is obvious that I am taking a pictured of the moon relative to the ground (horizon)
-I then took another shot a close up (x50 magnification on the moon)
-The close up is always taken from the same positions oas the full shot.
+1.  All photographs were taken using a Samsung Galaxy note 20 plus. 
+2.  I took a full shot this would include the moon and the ground. This is to show I am not tilting the camera while taking the shot.
+3.  I then took another shot a close up (x50 magnification on the moon). The close up is always taken from the same positions as the full shot.
+4. In the collage I highlight some easy to spot areas of the moon
+     a. The "Rabbit Ears" Sea of Nectar and Sea of Fertility
+     b. The "Rabbits lunch" Sea of Clouds
+
 
 ## Moon Rotation Video
 
@@ -25,18 +28,13 @@ This video shows the moon changing
 
 ## Moon Rotation 2021/01/26
 
-I have highlighted two distinctive areas of the moon so you can see it is rotation 
-The "Rabbet Ears" Sea of Nectar and Sea of Fertility
-The "Rabbets lunch" Sea of Clouds
+Notice that the rotation starts at 22:30 and ends at 02:38.
 
 ![Moon Rotating 2021/01/26](/assets/images/20210126/MoonRotation20210126.jpg)
 
 
-## Moon Rotation 2021/01/25
 
-I have highlighted two distinctive areas of the moon so you can see it is rotation 
-The "Rabbet Ears" Sea of Nectar and Sea of Fertility
-The "Rabbets lunch" Sea of Clouds
+## Moon Rotation 2021/01/25
 
 Notice that the rotation does not start until 21:30
 
@@ -47,19 +45,9 @@ Notice that the rotation does not start until 21:30
 
 ![Moon Rotating 2021/01/23](/assets/images/20210123/MoonRotation20210123.jpg)
 
-
-This image is a collage of photographs taken on 23 Jan 2021.
-Over a period of hours I took some photographs of the moon and then some close up shots of the moon.
-You can see that the moon is rotating.
-
 ## Moon Rotation 2021/01/22
 
 ![Moon Rotating 2021/01/22](/assets/images/20210122/MoonRotating20210122.png)
-
-This image is a collage of photographs taken on 22 Jan 2021.
-Over a period of hours I took some photographs of the moon and then some close up shots of the moon.
-You can see that the moon is rotating.
-
 
 
 All original images that were used to make up this collage can be found on ![github](https://github.com/ernan/ernan.github.io).
